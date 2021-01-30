@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>FillRegionSample.dll</Assembly>
+    <ClientId>7892C830-86EE-4461-AEBB-9AEA3E502920</ClientId>
+    <FullClassName>FillRegionSample.MainClass</FullClassName>
+    <Text>Create FilledRegion</Text>
+    <Description>Sample for creating FilledRegion </Description>
+    <VendorId>TwentyTwo</VendorId>
+    <VendorDescription>TwentyTwo, https://twentytwo.space</VendorDescription>
+  </AddIn>
+</RevitAddIns>
